@@ -90,6 +90,7 @@
   }
 
   .header__mobile-sidebar {
+    display: block;
     position: fixed;
     top: var(--header-height);
     left: 0;
